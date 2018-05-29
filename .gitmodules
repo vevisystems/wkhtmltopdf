@@ -2,3 +2,19 @@
   path   = qt
   url    = ../qt.git
   branch = wk_4.8.7
+
+[submodule "qt5/qtsvg"]
+  path   = qt5/qtsvg
+  url    = https://code.qt.io/qt/qtsvg.git
+
+[submodule "qt5/qtxmlpatterns"]
+  path   = qt5/qtxmlpatterns
+  url    = https://code.qt.io/qt/qtxmlpatterns.git
+
+[submodule "qt5/qtwebkit"]
+  path   = qt5/qtwebkit
+  url    = https://code.qt.io/qt/qtwebkit.git
+
+[submodule "qt5/qtbase"]
+  path   = qt5/qtbase
+  url    = https://code.qt.io/qt/qtbase.git
